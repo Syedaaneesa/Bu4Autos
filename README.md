@@ -1,7 +1,5 @@
 # BU4 E-Commerce Website
 
-🔗 **Live Website:** https://bu4.appsbaskets.com/
-
 ## 📌 Project Overview
 
 **BU4** is a fully functional e-commerce website developed using **WordPress** and **WooCommerce**, designed to showcase and sell products with enhanced customization, user-friendly navigation, and modern UI/UX practices.  
@@ -67,7 +65,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 > 📁 **Note:** All images are stored in the `images/` directory of this repository.
 
 ### 🏠 Home Page
-![Home Page](images/home-page.png)
+![Home Page]([images/home-page.png](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Home-bu4-Electric-Bikkes-01-13-2026_05_47_PM.png))
 
 ### 🛍️ Product Archive Page
 ![Product Archive](images/product-archive.png)
