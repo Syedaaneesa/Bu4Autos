@@ -62,25 +62,24 @@ This repository documents the structure, features, and technologies used in the 
 
 Below are some screenshots showcasing different sections of the BU4 e-commerce website.
 
-> 📁 **Note:** All images are stored in the `images/` directory of this repository.
-
-### 🏠 Home Page
+### Home Page
 ![Home Page](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Home-bu4-Electric-Bikkes-01-13-2026_05_47_PM.png)
 
-### 🛍️ Product Archive Page
-![Product Archive](images/product-archive.png)
+### Product Archive Page
+![Product Archive](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Shop-%E2%80%93-bu4-Electric-Bikkes-01-13-2026_05_55_PM.png)
 
-### 📦 Single Product Page
-![Single Product](images/single-product.png)
+### Single Product Page
+![Single Product](https://github.com/Syedaaneesa/Bu4Autos/blob/main/BU-Shine-bu4-Electric-Bikkes-01-13-2026_05_59_PM.png)
 
-### 🎨 Product Color Variations
-![Product Variations](images/product-variations.png)
+### Blog / Posts Page
+![Posts Page](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Blog-bu4-Electric-Bikkes-01-13-2026_06_59_PM.png)
 
-### 📥 Brochure Download Feature
-![Brochure Download](images/brochure-download.png)
+### About Us
+![About Page](https://github.com/Syedaaneesa/Bu4Autos/blob/main/About-Us-bu4-Electric-Bikkes-01-13-2026_05_51_PM.png)
 
-### 📰 Blog / Posts Page
-![Posts Page](images/posts-page.png)
+### Become a Dealer
+![Become a Dealer](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Become-a-Dealer-bu4-Electric-Bikkes-01-13-2026_05_49_PM.png)
+
 
 ---
 
