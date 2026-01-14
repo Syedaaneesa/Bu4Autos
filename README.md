@@ -115,6 +115,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
    - Elementor
    - Elementor Pro
    - Advanced Custom Fields
+   - Color Variations
 4. Configure WooCommerce settings
 5. Import layouts or recreate pages
 6. Add products and variations
@@ -135,8 +136,6 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 
 **Syeda Aneesa Batool**  
 Senior WordPress Developer  
-
-For collaborations or project inquiries, feel free to connect.
 
 ---
 
