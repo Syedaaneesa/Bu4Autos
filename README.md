@@ -8,12 +8,16 @@ The project focuses on flexible product management, advanced product presentatio
 This repository documents the structure, features, and technologies used in the development of the BU4 e-commerce platform.
 
 ---
+## 🌐 Live Website
+**Website:** [FlexEdge](https://flexedge.zync-crm.com/)  
+
 
 ## 👩‍💻 Developer Information
 
 **Developer:** Syeda Aneesa Batool  
 **Role:** Senior WordPress Developer  
 **Expertise:** WordPress Development, WooCommerce Customization, Elementor Pro, ACF, Theme Customization, Performance Optimization
+**Portfolio:** https://aneesa.zeestmedia.com/
 
 ---
 
