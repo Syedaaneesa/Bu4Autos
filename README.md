@@ -1,6 +1,6 @@
 # BU4 E-Commerce Website
 
-## 📌 Project Overview
+##  Project Overview
 
 **BU4** is a fully functional e-commerce website developed using **WordPress** and **WooCommerce**, designed to showcase and sell products with enhanced customization, user-friendly navigation, and modern UI/UX practices.  
 The project focuses on flexible product management, advanced product presentation, and scalability for future growth.
@@ -8,11 +8,11 @@ The project focuses on flexible product management, advanced product presentatio
 This repository documents the structure, features, and technologies used in the development of the BU4 e-commerce platform.
 
 ---
-## 🌐 Live Website
+##  Live Website
 **Website:** [BU4](https://bu4.appsbaskets.com/)  
 
 
-## 👩‍💻 Developer Information
+##  Developer Information
 
 **Developer:** Syeda Aneesa Batool  
 **Role:** Senior WordPress Developer  
