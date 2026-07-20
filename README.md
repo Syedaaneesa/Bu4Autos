@@ -8,8 +8,8 @@ The project focuses on flexible product management, advanced product presentatio
 This repository documents the structure, features, and technologies used in the development of the BU4 e-commerce platform.
 
 ---
-##  Live Website
-**Website:** [https://bu4auto.com/](https://bu4auto.com/)
+## Preview Website
+**Livw Website URL:** [https://bu4auto.com/](https://bu4auto.com/)
 
 
 ##  Developer Information
