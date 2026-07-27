@@ -7,8 +7,8 @@ The project focuses on flexible product management, advanced product presentatio
 
 This repository documents the structure, features, and technologies used in the development of the BU4 e-commerce platform.
 
----
-## Preview Website
+
+### Preview Website
 **Livw Website URL:** [https://bu4auto.com/](https://bu4auto.com/)
 
 
@@ -19,7 +19,7 @@ This repository documents the structure, features, and technologies used in the 
 **Expertise:** WordPress Development, WooCommerce Customization, Elementor Pro, ACF, Theme Customization, Performance Optimization
 **Portfolio:** https://aneesa.zeestmedia.com/
 
----
+
 
 ## 🛠️ Technologies & Tools Used
 
@@ -32,7 +32,7 @@ This repository documents the structure, features, and technologies used in the 
 - **HTML5 / CSS3**
 - **JavaScript**
 
----
+
 
 ## ✨ Key Features
 
@@ -60,7 +60,7 @@ This repository documents the structure, features, and technologies used in the 
 - SEO-friendly structure
 - Performance-optimized setup
 
----
+
 
 ## 🖼️ Image Gallery
 
@@ -85,7 +85,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 ![Become a Dealer](https://github.com/Syedaaneesa/Bu4Autos/blob/main/Become-a-Dealer-bu4-Electric-Bikkes-01-13-2026_05_49_PM.png)
 
 
----
+
 
 ## 🧩 Theme & Page Builder
 
@@ -99,7 +99,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 - Archive & single product templates
 - Responsive design controls
 
----
+
 
 ## 📂 Project Structure Highlights
 
@@ -108,7 +108,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 - ACF field groups for extended functionality
 - Optimized media handling
 
----
+
 
 ## 🚀 Installation & Setup (For Local Development)
 
@@ -124,7 +124,7 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 5. Import layouts or recreate pages
 6. Add products and variations
 
----
+
 
 ## 📈 Future Enhancements
 
@@ -134,14 +134,14 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 - Performance optimization
 - Multi-language support
 
----
+
 
 ## 📬 Contact
 
 **Syeda Aneesa Batool**  
 Senior WordPress Developer  
 
----
+
 
 ## ⭐ Acknowledgment
 
