@@ -9,7 +9,7 @@ This repository documents the structure, features, and technologies used in the 
 
 
 ### Preview Website
-**Livw Website URL:** [https://bu4auto.com/](https://bu4auto.com/)
+**Live Website URL:** [https://bu4auto.com/](https://bu4auto.com/)
 
 
 ##  Developer Information
