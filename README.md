@@ -12,15 +12,6 @@ This repository documents the structure, features, and technologies used in the 
 **Live Website URL:** [https://bu4auto.com/](https://bu4auto.com/)
 
 
-##  Developer Information
-
-**Developer:** Syeda Aneesa Batool  
-**Role:** Senior WordPress Developer  
-**Expertise:** WordPress Development, WooCommerce Customization, Elementor Pro, ACF, Theme Customization, Performance Optimization
-**Portfolio:** https://aneesa.zeestmedia.com/
-
-
-
 ## 🛠️ Technologies & Tools Used
 
 - **WordPress**
@@ -136,10 +127,13 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 
 
 
-## 📬 Contact
 
-**Syeda Aneesa Batool**  
-Senior WordPress Developer  
+##  Developer Information
+
+**Developer:** Syeda Aneesa Batool  
+**Role:** Senior WordPress Developer  
+**Expertise:** WordPress Development, WooCommerce Customization, Elementor Pro, ACF, Theme Customization, Performance Optimization
+**Portfolio:** https://aneesa.zeestmedia.com/
 
 
 
