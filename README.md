@@ -126,8 +126,6 @@ Below are some screenshots showcasing different sections of the BU4 e-commerce w
 - Multi-language support
 
 
-
-
 ##  Developer Information
 
 **Developer:** Syeda Aneesa Batool  
